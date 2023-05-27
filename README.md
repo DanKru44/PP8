@@ -6,4 +6,5 @@ Der verwendete Editor zum erstellen des Diagramms ist drawio. Das C-Programm wur
 
 ## Compiler
 Das Programm kann einfach mit einem beliebigen Compiler kompiliert werden. Ich habe clang verwendet.
+
 Beispiel: `clang summe.c -o summe.elf`
